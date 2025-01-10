@@ -4,4 +4,9 @@
 ![servicesremake](https://github.com/user-attachments/assets/e07df1d3-eec1-4a09-aca9-9c5639172b0a)
 ![navbarremake](https://github.com/user-attachments/assets/1b1c5d9b-e796-4257-b9ca-4c4428b4cef1)
 ![homepageremake](https://github.com/user-attachments/assets/7ada4648-7d29-4766-869b-55e3bd2c430f)
-![about us](https://github.com/user-attachments/assets/33743fd2-df15-49c0-b9e6-c94071f95082)
+![about us](https://github.com/user-attachments/assets/33743fd2-df15-49c0-b9e6-c94071f95082)![Uploading home_page.png…]()
+![navbar01](https://github.com/user-attachments/assets/96c39685-4417-465d-a2f0-9cc1b63812b3)
+![navbarreview](https://github.com/user-attachments/assets/dacc3b83-9578-4fd6-8629-98342ecaabb9)
+
+![movies](https://github.com/user-attachments/assets/aeb5dcc0-c782-4b97-8e03-543846f03536)
+![series](https://github.com/user-attachments/assets/0e018496-960e-4f59-aaf0-0affa87c10a7)
